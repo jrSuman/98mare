@@ -14,6 +14,9 @@ It's me **98mare**
    
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C=="/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="JAVA"/>
   
+  **"Life is short. Smile while you still have teeth."**
+  
+  <img src="https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif" />
     
    
 
